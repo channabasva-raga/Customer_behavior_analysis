@@ -112,7 +112,8 @@ An interactive Power BI dashboard with filters for **Subscription Status, Gender
 - Revenue and sales by product category
 - Revenue and sales by age group
 
-![Customer Behavior Dashboard](images/dashboard.png)
+<img width="1362" height="748" alt="dashboard_preview" src="https://github.com/user-attachments/assets/79c7af8e-4f3d-42b7-89a7-0659c8aaa80d" />
+
 
 File: [`customer_behavior_dashboard.pbix`](customer_behavior_dashboard.pbix)
 
@@ -165,8 +166,8 @@ File: [`customer_behavior_dashboard.pbix`](customer_behavior_dashboard.pbix)
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/channabasva-raga/Customer_behavior_analysis.git
+   cd Customer_behavior_analysis
    ```
 
 2. **Install Python dependencies**
